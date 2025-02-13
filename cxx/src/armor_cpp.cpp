@@ -252,15 +252,11 @@ int main() {
         result_writer.write(result_resized);
 
         frame_id++;
-        if (cv::waitKey(1) == 'q') {
-            break;
-        }
     }
 
     cap.release();
     mask_writer.release();
     result_writer.release();
-    cv::destroyAllWindows();
     std::cout << "Video processing complete." << std::endl;
 
     return 0;
