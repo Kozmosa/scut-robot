@@ -1,0 +1,8 @@
+# multimedia files
+*.mp4
+
+# build files
+cxx/build
+
+# test files
+cxx/test

@@ -1,0 +1,2 @@
+rm mask*
+rm result*
