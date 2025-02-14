@@ -3,6 +3,10 @@ if [ ! -d build ]; then
     mkdir build
 fi
 
+if [ ! -d test ]; then
+    mkdir test
+fi
+
 cd build
 rm -rf *
 cmake ..
