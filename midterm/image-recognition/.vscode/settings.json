@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compileCommands": [
+        ""
+    ],
+    "C_Cpp.default.intelliSenseMode": "linux-clang-x64",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+}
