@@ -6,3 +6,6 @@ cxx/build
 
 # test files
 cxx/test
+
+# build files
+envs/

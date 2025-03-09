@@ -1,0 +1,7 @@
+INFO:httpx:HTTP Request: GET http://localhost:8080/gradio_api/startup-events "HTTP/1.1 502 Bad Gateway"
+INFO:httpx:HTTP Request: HEAD http://localhost:8080/ "HTTP/1.1 502 Bad Gateway"
+INFO:httpx:HTTP Request: HEAD http://localhost:8080/ "HTTP/1.1 502 Bad Gateway"
+INFO:httpx:HTTP Request: HEAD http://localhost:8080/ "HTTP/1.1 502 Bad Gateway"
+INFO:httpx:HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD http://localhost:8080/ "HTTP/1.1 502 Bad Gateway"
+INFO:httpx:HTTP Request: HEAD http://localhost:8080/ "HTTP/1.1 502 Bad Gateway"
